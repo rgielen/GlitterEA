@@ -1,0 +1,17 @@
+GlitterEA
+---------
+
+GlitterEA is an example project to demonstrate how to develop and run JEE6 client applications with NetBeans and Glassfish V3. It belongs to a two part tutorial found under
+http://log4ray.blogspot.com/2010/02/create-and-run-jee6-client-application.html
+
+The application provides a very simple microblogging/chat service example with a Swing based client. The application contains a JEE6 EJB module along with a JEE6 client application module, combined within an enterprise application.
+
+The checked in source contains the full NetBeans project.
+
+The provided source code is licensed under the Apache V2.0 License, see
+http://www.apache.org/licenses/LICENSE-2.0
+
+Enjoy!
+
+René Gielen
+http://twitter.com/rgielen
